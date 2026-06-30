@@ -105,6 +105,28 @@ The dashboard will launch automatically in your browser at `http://localhost:850
 
 ---
 
+## 👨‍💻 Development & Contributions
+
+This project was developed as part of a collaborative effort to build a data-driven analytics platform for the World Rally Championship (WRC). My contributions focused on both the data pipeline.
+
+### My Contributions
+
+- Contributed to the collection, organization, and preparation of the WRC dataset used throughout the project.
+- Performed data cleaning and preprocessing to improve data quality and consistency.
+- Developed data visualization components to present rally and driver performance insights.
+- Integrated data processing modules with the application workflow.
+- Participated in testing, debugging, and refining features to improve usability and reliability.
+- Used Git and GitHub for version control and collaborative development.
+
+### Skills Demonstrated
+
+- Data Collection & Dataset Creation
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Python Development
+- Collaborative Software Development
+
+
 ## 📝 Ignoring Unwanted Files
 
 This project includes a pre-configured `.gitignore` file that prevents local development artifacts from being pushed to GitHub, including:
@@ -113,3 +135,6 @@ This project includes a pre-configured `.gitignore` file that prevents local dev
 * Streamlit local secrets (`secrets.toml`)
 * Local IDE directories (`.vscode/`, `.idea/`)
 * Word generation temp files (`~$*`)
+
+
+
