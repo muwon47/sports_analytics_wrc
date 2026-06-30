@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+bin/
+lib/
+include/
+
+# Python bytecode / cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local config & secrets
+.streamlit/secrets.toml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+year,rally,stage_id,stage_name,stage_length_km,driver,co_driver,car,stage_time_sec,stage_position
+2021,Monte Carlo,1,SS1,12.3,Rovanpera,Halttunen,Toyota Yaris,425.6,1
+2021,Monte Carlo,1,SS1,12.3,Evans,Martin,Toyota Yaris,432.1,2
+2021,Monte Carlo,1,SS1,12.3,Ogier,Landais,Toyota Yaris,438.9,3
+2021,Monte Carlo,1,SS1,12.3,Tanak,Jarveoja,Hyundai i20,441.2,4
+2021,Monte Carlo,1,SS1,12.3,Neuville,Wydaeghe,Hyundai i20,445.0,5
+2021,Monte Carlo,1,SS1,12.3,Breen,Fulton,Ford Puma,452.3,6
+2021,Monte Carlo,1,SS1,12.3,Lappi,Ferm,Ford Puma,455.8,7
+2021,Monte Carlo,2,SS2,18.7,Rovanpera,Halttunen,Toyota Yaris,635.2,1
+2021,Monte Carlo,2,SS2,18.7,Evans,Martin,Toyota Yaris,641.5,2
+2021,Monte Carlo,2,SS2,18.7,Ogier,Landais,Toyota Yaris,648.1,3
+2021,Monte Carlo,2,SS2,18.7,Tanak,Jarveoja,Hyundai i20,652.0,4
+2021,Monte Carlo,2,SS2,18.7,Neuville,Wydaeghe,Hyundai i20,659.3,5
+2021,Monte Carlo,2,SS2,18.7,Breen,Fulton,Ford Puma,668.9,6
+2021,Monte Carlo,2,SS2,18.7,Lappi,Ferm,Ford Puma,672.4,7
+2021,Sweden,1,SS1,9.5,Rovanpera,Halttunen,Toyota Yaris,321.0,1
+2021,Sweden,1,SS1,9.5,Evans,Martin,Toyota Yaris,325.4,2
+2021,Sweden,1,SS1,9.5,Ogier,Landais,Toyota Yaris,330.1,3
+2021,Sweden,1,SS1,9.5,Tanak,Jarveoja,Hyundai i20,333.7,4
+2021,Sweden,1,SS1,9.5,Neuville,Wydaeghe,Hyundai i20,337.2,5
+2021,Sweden,1,SS1,9.5,Breen,Fulton,Ford Puma,342.5,6
+2021,Sweden,1,SS1,9.5,Lappi,Ferm,Ford Puma,345.9,7
+2022,Portugal,5,SS5,22.4,Rovanpera,Halttunen,Toyota Yaris,798.2,1
+2022,Portugal,5,SS5,22.4,Evans,Martin,Toyota Yaris,805.6,2
+2022,Portugal,5,SS5,22.4,Ogier,Landais,Toyota Yaris,812.3,3
+2022,Portugal,5,SS5,22.4,Tanak,Jarveoja,Hyundai i20,818.9,4
+2022,Portugal,5,SS5,22.4,Neuville,Wydaeghe,Hyundai i20,825.1,5
+2022,Portugal,5,SS5,22.4,Breen,Fulton,Ford Puma,834.0,6
+2022,Portugal,5,SS5,22.4,Lappi,Ferm,Ford Puma,838.7,7
+2022,Finland,9,SS9,28.1,Rovanpera,Halttunen,Toyota Yaris,962.3,1
+2022,Finland,9,SS9,28.1,Evans,Martin,Toyota Yaris,969.8,2
+2022,Finland,9,SS9,28.1,Ogier,Landais,Toyota Yaris,978.4,3
+2022,Finland,9,SS9,28.1,Tanak,Jarveoja,Hyundai i20,985.2,4
+2022,Finland,9,SS9,28.1,Neuville,Wydaeghe,Hyundai i20,992.6,5
+2022,Finland,9,SS9,28.1,Breen,Fulton,Ford Puma,1002.1,6
+2022,Finland,9,SS9,28.1,Lappi,Ferm,Ford Puma,1008.3,7
+2023,Wales GB,12,SS12,16.2,Rovanpera,Halttunen,Toyota Yaris,558.7,1
+2023,Wales GB,12,SS12,16.2,Evans,Martin,Toyota Yaris,564.2,2
+2023,Wales GB,12,SS12,16.2,Ogier,Landais,Toyota Yaris,571.0,3
+2023,Wales GB,12,SS12,16.2,Tanak,Jarveoja,Hyundai i20,577.5,4
+2023,Wales GB,12,SS12,16.2,Neuville,Wydaeghe,Hyundai i20,584.9,5
+2023,Wales GB,12,SS12,16.2,Breen,Fulton,Ford Puma,592.3,6
+2023,Wales GB,12,SS12,16.2,Lappi,Ferm,Ford Puma,596.1,7
