@@ -66,7 +66,47 @@ sports_analytics_wrc/
 * **Plotting & Visuals**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
 * **Machine Learning**: [Scikit-Learn](https://scikit-learn.org/)
 
+---# 📸 Project Screenshots
+
+## 🚗 Car Performance
+
+<img width="1838" height="962" alt="car" src="https://github.com/user-attachments/assets/9d4cad4d-518a-4e38-882f-c505afdc5a7c" />
+
+Compares vehicle models based on **average stage time**, **average speed**, **finishing position**, and **time gap to the stage winner**, providing insights into overall manufacturer performance.
+
 ---
+
+## 🔥 Performance Heatmap
+
+<img width="1847" height="935" alt="consistency" src="https://github.com/user-attachments/assets/b28975fe-48ad-43fb-955e-c461d005fa65" />
+
+Visualizes driver performance across different rallies using a heatmap, enabling quick comparison of consistency and identifying strengths and weaknesses throughout the championship.
+
+---
+
+# 🤖 AI & Machine Learning Insights
+
+## 📊 Driver Clustering (K-Means)
+
+<img width="1846" height="928" alt="insights" src="https://github.com/user-attachments/assets/e8edeb23-4464-4955-9b67-c49b0b8ab905" />
+
+Clusters drivers based on **average stage time** and **performance consistency**, revealing groups of drivers with similar performance characteristics and driving profiles.
+
+---
+
+## 🌲 Feature Importance (Random Forest)
+
+<img width="1838" height="908" alt="stage" src="https://github.com/user-attachments/assets/6345bc9a-110f-4731-a5fc-dba0e6ca369a" />
+
+Applies a **Random Forest Regression** model to identify the factors that most influence stage completion time, highlighting the relative importance of each feature.
+
+---
+
+## 🚨 Anomaly Detection (Isolation Forest)
+
+<img width="1836" height="975" alt="ai" src="https://github.com/user-attachments/assets/c9bf8cc9a-0da3-46a8-8eeb-f4760c29777c" />
+
+Uses an **Isolation Forest** algorithm to detect anomalous stage performances that may indicate exceptional runs, mechanical failures, crashes, or other unusual rally events.
 
 ## 💻 Quick Start & Installation
 
