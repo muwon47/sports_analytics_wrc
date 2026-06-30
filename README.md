@@ -113,18 +113,19 @@ This project was developed as part of a collaborative effort to build a data-dri
 
 - Contributed to the collection, organization, and preparation of the WRC dataset used throughout the project.
 - Performed data cleaning and preprocessing to improve data quality and consistency.
-- Developed data visualization components to present rally and driver performance insights.
-- Integrated data processing modules with the application workflow.
+- Engineered analytical features such as average speed, time difference to stage winner and performance scores.
+- Assisted in integrating data processing, analytics, and visualization modules like boxplots, heatmaps, charts, etc.
 - Participated in testing, debugging, and refining features to improve usability and reliability.
-- Used Git and GitHub for version control and collaborative development.
 
 ### Skills Demonstrated
 
 - Data Collection & Dataset Creation
 - Data Cleaning & Preprocessing
+- Data Visualization
 - Exploratory Data Analysis (EDA)
 - Python Development
 - Collaborative Software Development
+- Git & GitHub
 
 
 ## 📝 Ignoring Unwanted Files
