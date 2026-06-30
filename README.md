@@ -66,7 +66,7 @@ sports_analytics_wrc/
 * **Plotting & Visuals**: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
 * **Machine Learning**: [Scikit-Learn](https://scikit-learn.org/)
 
----# 📸 Project Screenshots
+# 📸 Project Screenshots
 
 ## 🚗 Car Performance
 
@@ -104,7 +104,7 @@ Applies a **Random Forest Regression** model to identify the factors that most i
 
 ## 🚨 Anomaly Detection (Isolation Forest)
 
-<img width="1836" height="975" alt="ai" src="https://github.com/user-attachments/assets/c9bf8cc9a-0da3-46a8-8eeb-f4760c29777c" />
+<img width="1836" height="975" alt="ai" src="https://github.com/user-attachments/assets/7b11341d-0622-468a-b0d5-8f430cb9073a" />
 
 Uses an **Isolation Forest** algorithm to detect anomalous stage performances that may indicate exceptional runs, mechanical failures, crashes, or other unusual rally events.
 
